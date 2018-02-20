@@ -1,0 +1,108 @@
+body {
+  background: #C0EFF0 url("multicolor6.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+h1{
+  font-size: 40px;
+  font-family: helvetica;
+  color: purple;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.first{
+  /*border-radius: 20px;
+  border-style: solid;
+  border-color: green;
+  text-align: center;*/
+  margin: auto;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  max-width: 100px;
+  margin: center;
+}
+.second{
+  /*border-radius: 20px;
+  border-style: solid;
+  border-color: brown;
+  text-align: center;*/
+  margin: auto;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  max-width: 100px;
+  margin: center;
+}
+.third{
+  /*border-radius: 20px;
+  border-style: solid;
+  border-color: blue;
+  text-align: center;*/
+  margin: auto;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  max-width: 150px;
+  margin: center;
+}
+.fourth{
+  /*border-radius: 20px;
+  border-style: solid;
+  border-color: blue;
+  text-align: center;*/
+  margin: auto;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  max-width: 140px;
+  margin: center;
+}
+.fifth{
+  /*border-radius: 20px;
+  border-style: solid;
+  border-color: brown;
+  text-align: center;*/
+  margin: auto;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  max-width: 200px;
+  margin: center;
+}
+.sixth{
+  /*border-radius: 20px;
+  border-style: solid;
+  border-color: green;
+  text-align: center;*/
+  margin: auto;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  max-width: 100px;
+  margin: center;
+}
+
+button{
+  padding: 100px;
+  background-color: lightblue;
+  text-align: center;
+  border-radius: 20px;
+}
+
+a{
+  text-decoration: none;
+}
+
+.firsta{
+  color: green;
+  font-size: 24px;
+  font-weight: bold;
+
+}
+.seconda{
+  color: brown;
+  font-size: 24px;
+  font-weight: bold;
+}
+.thirda{
+  color: blue;
+  font-size: 24px;
+  font-weight: bold;
+}
